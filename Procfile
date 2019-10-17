@@ -1,0 +1,1 @@
+web: gunicorn phnews.wsgi --log-fa -
